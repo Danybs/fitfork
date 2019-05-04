@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainWindow">
+    <item
+        android:id="@+id/my_recipes"
+        android:orderInCategory="1"
+        android:title="@string/my_recipes" />
+    <item
+        android:id="@+id/my_account_perfil"
+        android:orderInCategory="3"
+        android:title="@string/my_account_perfil" />
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="2"
+        android:title="@string/logout" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="4"
+        android:title="@string/action_settings" />
+
+</menu>

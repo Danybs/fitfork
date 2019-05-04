@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324051524777",
+    "firebase_url": "https://fityfork.firebaseio.com",
+    "project_id": "fityfork",
+    "storage_bucket": "fityfork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324051524777:android:c08069c4f6e079de",
+        "android_client_info": {
+          "package_name": "com.example.dani.fitfork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324051524777-m10n4rumgcuuqpeo3d0gfbmjsnrur4si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dani.fitfork",
+            "certificate_hash": "6d4b25875b22458b68c2f4901c699571676e0309"
+          }
+        },
+        {
+          "client_id": "324051524777-g103tjo6ebn32fsonhs3gm0lu09907u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCgLvJ-cTjPYJ2e4JCH7EBdIbinn0HdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324051524777-g103tjo6ebn32fsonhs3gm0lu09907u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
